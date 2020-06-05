@@ -2,7 +2,29 @@
 
 > Svelte + Rust WebAsm + Typescript + Parcel + Express
 
--   Allowed to use code splitting in svelte. (code chunk, npm modules.. dynamic import.. code split... whatever)
+This repository is a template to allow Svelte to import a rust crate directly in it.
+
+A change on the rust files on the crate triggers the Hot Module Reloading[HMR] and automatically reflects on the browser the changes done.
+
+It is based on the awesome work by [hmmhmmhm](https://github.com/hmmhmmhm/svelte-template).
+
+## Installation
+
+You can install this template in at three different ways:
+
+1. Using `degit`:
+
+`npx degit HugoDaniel/svelte-template my-svelte-project`
+
+2. Using the "Use this template" GitHub button above
+
+3. Just fork and clone it
+
+After one of the above steps have been made, you have to:
+
+-   `cd my-svelte-project`
+-   `npm install`
+-   `npm start`
 
 ## Command
 
