@@ -10,7 +10,7 @@ It is based on the awesome work by [hmmhmmhm](https://github.com/hmmhmmhm/svelte
 
 ## Installation
 
-You can install this template in at three different ways:
+You can install this template in at least three different ways:
 
 1. Using `degit`:
 
